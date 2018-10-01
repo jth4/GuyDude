@@ -1,4 +1,30 @@
 {
+  "stickers" : [
+    {
+      "filename" : "GuyDude_slice8.sticker"
+    },
+    {
+      "filename" : "GuyDude_slice4.sticker"
+    },
+    {
+      "filename" : "GuyDude_slice6.sticker"
+    },
+    {
+      "filename" : "GuyDude_slice5.sticker"
+    },
+    {
+      "filename" : "GuyDude_slice7.sticker"
+    },
+    {
+      "filename" : "GuyDude_slice3.sticker"
+    },
+    {
+      "filename" : "GuyDude_slice2.sticker"
+    },
+    {
+      "filename" : "GuyDude_slice1.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
